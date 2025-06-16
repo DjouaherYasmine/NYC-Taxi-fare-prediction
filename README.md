@@ -58,7 +58,7 @@ This project uses public and derived datasets related to NYC taxi trips and weat
   Description: Includes detailed trip-level data for yellow taxi rides, such as timestamps, pickup/dropoff location IDs, distance, fare, and payment type.
 
 - **NYC Taxi Zone Lookup Table**  
-  Source: [TLC Zone Lookup CSV](https://www.nyc.gov/assets/tlc/downloads/pdf/taxi_zone_lookup.csv)  
+  Source: [TLC Zone Lookup CSV](https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv)  
   Description: Provides a mapping of `LocationID` values to `Borough` and `Zone` for use in spatial aggregation.
 
 - **NYC Weather Data (January 2025)**  
